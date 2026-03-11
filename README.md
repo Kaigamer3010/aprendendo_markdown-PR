@@ -5,6 +5,7 @@ Repositório de exemplo
 ## Linguagem utilizada
 ### Variáveis
 
+```
   Utilize const ou let para a declaração de variáveis
 ```
 
