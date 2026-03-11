@@ -6,12 +6,12 @@ Repositório de exemplo
 ### Variáveis
 
   Utilize const ou let para a declaração de variáveis
-...
+```
 
-...
+```
   //ruim
   var nome = 'Diogo';
 
   //bom
   var nome = "Diogo";
-...
+```
